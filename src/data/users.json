@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "username": "varun",
+      "email": "bhab@bs",
+      "password": "hii",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "username": "jndjkwfn",
+      "email": "jekwk@kdnf",
+      "password": "kejwn",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "userName": "varun",
+      "mailid": "cfc@gvgvqwert",
+      "password": "qwert",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "userName": "varun",
+      "mailid": "varu@qwer",
+      "password": "qwert",
+      "gender": "Male",
+      "id": 4
+    }
+  ]
+}
